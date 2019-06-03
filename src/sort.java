@@ -1,6 +1,5 @@
-import java.lang.reflect.Array;
 public class sort {
-
+//12345
 	public double midNum( double[] array1,double[] array2)
 	{
    	   int length1=array1.length;
@@ -41,9 +40,6 @@ public class sort {
 	return midNum ;
 	}
 	
-	
-	
-	  
 	public double oddAndEven(double[] array1, double[] array2) {//默认第一个为奇数个数字
 		 double midNum = 0;
 		 double set1max;
@@ -205,7 +201,7 @@ public class sort {
 	
 	
 	
-	//-------------------------------------------------------------------------
+//-------------------------------------------------------------------------123455
 	public double twoEven(double[] array1, double[] array2) {
 		double set1max,set2min;
 		int length1=array1.length, length2=array2.length,index1,index2;
